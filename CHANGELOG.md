@@ -17,6 +17,8 @@ y este proyecto sigue un versionado simple.
 - Estos errores surgieron devido al cambio de nombre de la extension
 - Se quitaron los comments devido que el marketplace no los acepta bien
 
+---
+
 ## [0.2.3] 2026-01-13
 
 ### Changed
