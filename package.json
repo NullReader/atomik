@@ -1,0 +1,30 @@
+{
+  "name": "atomik-theme",
+  "displayName": "atomik",
+  "description": "A dark and minimal theme for Visual Studio Code",
+  "version": "0.2.4",
+  "publisher": "nullreader",
+  "icon": "icon.jpeg",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "minimal",
+    "vscode theme",
+    "atomik"
+  ],
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atomik",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Atomik-color-theme.json"
+      }
+    ]
+  }
+}
