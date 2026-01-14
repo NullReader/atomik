@@ -89,4 +89,5 @@ Si encontrás algún error, tenés sugerencias de mejora o querés aportar nueva
 This project is licensed under a custom non-commercial license.
 Commercial use is not permitted.
 
-# atomik
+Considera valorar la extension con ⭐en marketplace si te a gustado, nos vemos
+###### NullReader
