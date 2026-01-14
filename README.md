@@ -85,5 +85,8 @@ Este proyecto es completamente abierto.
 Si encontrás algún error, tenés sugerencias de mejora o querés aportar nuevas ideas, los *issues* y *pull requests* son bienvenidos.
 
 
+## License
+This project is licensed under a custom non-commercial license.
+Commercial use is not permitted.
 
 # atomik
